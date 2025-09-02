@@ -1,0 +1,1 @@
+# GSAF-Image-Horizontal-Smooth-Scroll-Trigger
